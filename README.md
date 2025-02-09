@@ -6,7 +6,7 @@ This project is a non responsive and visually appealing brand page created using
 
 ## 🖼️ Preview
 
- public/images/project.png
+ ![Alt text](public/images/project.png)
 
 ---
 
